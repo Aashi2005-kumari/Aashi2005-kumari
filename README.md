@@ -1,5 +1,5 @@
-# 💫 About Me:
-A passionate Full Stack developer from India. I am currently working on Mern stack and web application development 
+# 💻 About Me:
+💻 Student passionate about technology | 🚀 Exploring new and latest tech | 🌟 Constantly learning and building innovative projects | 📚 Open to collaboration and contributing to exciting ideas!
 
 
 ## 🌐 Socials:
